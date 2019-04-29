@@ -1,0 +1,19 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": { 
+    "start":"node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Togrul82/node-weather-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Togrul82/node-weather-website/issues"
+  },
+  "homepage": "https://github.com/Togrul82/node-weather-website#readme"
+}
